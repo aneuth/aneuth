@@ -7,8 +7,6 @@
 
 - 📫 How to reach me **aneuth@gmail.com**
 
-- 📄 Know about my experiences [https://www.canva.com/design/DAFEO4NnO1w/JqQOnD0xrKIEdA9y71yXWg/edit?utm_content=DAFEO4NnO1w&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton](https://www.canva.com/design/DAFEO4NnO1w/JqQOnD0xrKIEdA9y71yXWg/edit?utm_content=DAFEO4NnO1w&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
-
 - ⚡ Fun fact **I can squat 75kg!**
 
 <h3 align="left">Connect with me:</h3>
