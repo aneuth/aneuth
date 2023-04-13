@@ -1,7 +1,9 @@
-<h1 align="center">Hi 👋, I'm Anna</h1>
+<h1 align="center">Hi 👋 I'm Anna</h1>
 <h3 align="center">A passionate software engineer! </h3>
 
 - 🔭 I’m currently working as a sofware engineer at [eduMe](www.devder.me)](https://www.edume.com/)
+
+- 💬 Ask me about JavaScript, React, Ruby, Ruby on Rails, SQL, HTML, CSS, Git, GitHub or Heroku!
 
 - 📫 How to reach me **aneuth@gmail.com**
 
